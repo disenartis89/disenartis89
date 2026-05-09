@@ -46,14 +46,6 @@ Este perfil refleja ese proceso: proyectos de aprendizaje, código real y muchas
 
 ---
 
-## 📈 Mis contribuciones
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/disenartis89" width="100%" />
-
-</div>
-
 ## Stack tecnológico
 
 <div align="center">
