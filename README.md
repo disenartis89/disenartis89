@@ -74,8 +74,3 @@ Este perfil refleja ese proceso: proyectos de aprendizaje, código real y muchas
 ## 📬 Contacto
 Puedes contactarme en raquelcferreiro@gmail.com
 
----
-
-> *"El código es poesía... cuando funciona."* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=100&section=footer" width="100%" />
