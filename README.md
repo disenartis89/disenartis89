@@ -1,11 +1,3 @@
-<div align="center">
-
-<!-- BANNER PRINCIPAL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=160&section=header&text=Raquel%20C.%20Ferreiro&fontSize=32&fontColor=ffffff&fontAlignY=36&fontFamily=Raleway&fontWeight=300&descAlignY=58&descSize=14&animation=twinkling" width="100%" />
-
-<!-- TEXTO ANIMADO -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+PHP+%7C+Node.js;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
