@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=160&section=header&text=Raquel%20C.%20Ferreiro&fontSize=32&fontColor=ffffff&fontAlignY=36&fontFamily=Raleway&fontWeight=300&desc=Desarrolladora%20Web%20en%20formación%20·%20FP%20DAW&descAlignY=58&descSize=14&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=160&section=header&text=Raquel%20C.%20Ferreiro&fontSize=32&fontColor=ffffff&fontAlignY=36&fontFamily=Raleway&fontWeight=300&descAlignY=58&descSize=14&animation=twinkling" width="100%" />
 
 <!-- TEXTO ANIMADO -->
 <br/>
