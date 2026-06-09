@@ -1,10 +1,4 @@
 
-
-
-</div>
-
----
-
 ## Sobre mí
 
 🌱 Soy desarrolladora web junior, recién graduada en **FP DAW** (Desarrollo de Aplicaciones Web). He llegado aquí por decisión propia: a los 39 años, compaginando estudios, trabajo y familia, decidí dar un giro profesional hacia algo que realmente me apasiona.
