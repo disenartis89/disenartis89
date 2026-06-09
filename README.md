@@ -78,7 +78,7 @@ Este perfil refleja ese proceso: proyectos de aprendizaje, código real y muchas
 
 ## 📬 Contacto
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelcferreiro@gmail.com) 📫 Puedes contactarme en raquelcferreiro@gmail.com
+Puedes contactarme en raquelcferreiro@gmail.com
 
 ---
 
